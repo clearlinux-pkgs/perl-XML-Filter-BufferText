@@ -4,7 +4,7 @@
 #
 Name     : perl-XML-Filter-BufferText
 Version  : 1.01
-Release  : 2
+Release  : 3
 URL      : https://cpan.metacpan.org/authors/id/R/RB/RBERJON/XML-Filter-BufferText-1.01.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RB/RBERJON/XML-Filter-BufferText-1.01.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libx/libxml-filter-buffertext-perl/libxml-filter-buffertext-perl_1.01-6.debian.tar.xz
@@ -80,7 +80,7 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.26.1/XML/Filter/BufferText.pm
+/usr/lib/perl5/vendor_perl/5.28.0/XML/Filter/BufferText.pm
 
 %files dev
 %defattr(-,root,root,-)
