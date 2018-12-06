@@ -4,7 +4,7 @@
 #
 Name     : perl-XML-Filter-BufferText
 Version  : 1.01
-Release  : 5
+Release  : 6
 URL      : https://cpan.metacpan.org/authors/id/R/RB/RBERJON/XML-Filter-BufferText-1.01.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RB/RBERJON/XML-Filter-BufferText-1.01.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libx/libxml-filter-buffertext-perl/libxml-filter-buffertext-perl_1.01-6.debian.tar.xz
